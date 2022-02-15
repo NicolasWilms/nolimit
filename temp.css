@@ -1,0 +1,36 @@
+nav {
+  background-color: #e64a19;
+}
+
+nav ul {
+  list-style: none;
+  position: relative;
+}
+
+nav ul li {
+  display: inline-block;
+  background-color: #5c165c;
+  position: relative;
+  z-index: 2;
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #000000;
+}
+
+/* Hide Dropdowns by Default */
+nav ul ul {
+  display: none;
+  position: absolute;
+}
+
+/* Display Dropdowns on Hover */
+nav ul li:hover > ul {
+  display: inherit;
+}
+

@@ -1,0 +1,24 @@
+https://webwhiteboard.com/board/HVKn5g6mLlheuXew5mQsNcL7C16hKGMl/
+!-- Whiteboard für Brainstorming
+
+
+
+Was auf der Seite enthalten sein muss:
+;--Startseite
+- Menüleiste (horizontal)               -- ERL
+    - Menüpunkt: No Limits              -- ERL
+- Kalender mit Rennen
+- Leaderboard
+- Slideshow
+- Parallax
+- ggf. Forum
+- Discord Verlinkung
+- "Follow us"-Bereich
+
+;--> No Limits
+- Team Auflistung
+
+
+
+
+https://virtual-simracing.de/
