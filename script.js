@@ -29,3 +29,13 @@ function myFunction() {
         navbar.classList.remove("sticky");
     }
 }
+
+/*
+Dropdown
+
+$(function () {
+    $(".btn").click(function () {
+        $(".submenu").slideToggle(100);
+    });
+}); 
+*/
